@@ -27,7 +27,7 @@ StehSitz is a macOS desktop application that helps you maintain a healthy work r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/StehSitz.git
+git clone https://github.com/einGuterWaran/StehSitz.git
 cd StehSitz
 ```
 
