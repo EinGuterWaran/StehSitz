@@ -1,0 +1,5 @@
+tkinter>=8.6
+logging>=0.5.1.2
+datetime>=4.3
+subprocess32>=3.5.4
+webbrowser>=0.0.1 
