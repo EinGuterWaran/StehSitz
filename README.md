@@ -4,8 +4,6 @@ StehSitz is a macOS desktop application that helps you maintain a healthy work r
 
 > ⚠️ **Note**: This application is currently only compatible with macOS. Windows and Linux support may be added in future updates.
 
-![StehSitz Logo](assets/logo.png)
-
 ## Features
 
 - 🪑 Automatic reminders to switch between sitting and standing positions
