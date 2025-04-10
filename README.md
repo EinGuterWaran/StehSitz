@@ -1,6 +1,8 @@
 # StehSitz - Your Personal Sit-Stand Reminder
 
-StehSitz is a desktop application that helps you maintain a healthy work routine by reminding you to alternate between sitting and standing positions, as well as taking regular breaks.
+StehSitz is a macOS desktop application that helps you maintain a healthy work routine by reminding you to alternate between sitting and standing positions, as well as taking regular breaks.
+
+> ⚠️ **Note**: This application is currently only compatible with macOS. Windows and Linux support may be added in future updates.
 
 ![StehSitz Logo](assets/logo.png)
 
@@ -19,6 +21,7 @@ StehSitz is a desktop application that helps you maintain a healthy work routine
 
 ### Prerequisites
 
+- macOS operating system
 - Python 3.7 or higher
 - macOS (for system notifications - note: notifications feature is currently in development)
 
@@ -58,6 +61,7 @@ python main.py
 
 - System notifications are currently not working. This feature is in development and will be available in a future update.
 - The application relies on visual cues and sound notifications for now.
+- The application is currently only compatible with macOS. Windows and Linux support is not available.
 
 ## Contributing
 
